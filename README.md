@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Electron React App
 
-#1)npm run build
-#2)npm run dev
+<ol>
+  <li>npm run build</li>
+  <li>npm run dev</li>
+</ol>
